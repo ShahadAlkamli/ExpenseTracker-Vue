@@ -4,7 +4,8 @@ A Vue 3 application for tracking income and expenses, with a running balance and
 
 **[Try it!](https://cheery-platypus-086e21.netlify.app)**
 
-![Expense Tracker](public/Interface.png)
+<img src="public/screen.png" alt="Expense Tracker" width="500">
+
 
 ---
 
